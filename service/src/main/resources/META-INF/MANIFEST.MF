@@ -1,0 +1,1 @@
+Main-Class: com.artem.service.ApplicationRunner
