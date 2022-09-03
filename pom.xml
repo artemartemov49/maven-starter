@@ -16,6 +16,11 @@
   <packaging>pom</packaging>
 
   <name>first-maven</name>
+  <scm>
+    <connection>scm:git:git@github.com:artemartemov49/maven-starter.git</connection>
+    <developerConnection>scm:git:git@github.com:artemartemov49/maven-starter.git</developerConnection>
+    <url>https://github.com/artemartemov49/maven-starter</url>
+  </scm>
 
   <!--  settings-->
   <properties>
